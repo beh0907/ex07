@@ -6,7 +6,7 @@ import Book from './Book';
 const BookPage = () => {
     const [books, setBooks] = useState([])
     const [query, setQuery] = useState("안드로이드")
-    const [page, setPage] = useState(1햐)
+    const [page, setPage] = useState(1)
     const [loading, setLoading] = useState(false)
     const [isEnd, setIsEnd] = useState(false)
     const [total, setTotal] = useState(0)
