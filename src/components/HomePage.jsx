@@ -7,7 +7,6 @@ const HomePage = () => {
             <Col>
                 <h1 className='text-center'>홈</h1>
             </Col>
-
         </Row>
     )
 }

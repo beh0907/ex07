@@ -5,9 +5,8 @@ const LocalPage = () => {
     return (
         <Row className='my-5'>
             <Col>
-                <h1 className='text-center'>홈</h1>
+                <h1 className='text-center'>지역 검색</h1>
             </Col>
-
         </Row>
     )
 }
